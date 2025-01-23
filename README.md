@@ -134,6 +134,11 @@ probability exercice
 
 	(exercice idea) ft_exclud.c
 
+bit shift exerise
+
+Level 2 -> prints_bits
+		-> swap_bits
+		-> revere_bits
 
 linked list exercice
 
@@ -142,13 +147,5 @@ Level 3 ->	ft_list_size
 Level 4 -> ft_list_foreach
 		->	ft_list_removoe_if
 		->	sort_list
-
-bit shift exerise
-
-Level 2 -> prints_bits
-		-> swap_bits
-		-> revere_bits
-
-
 
 </details>
